@@ -5,8 +5,8 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body {
-  min-height: 100vh;
+html, body {
+  height: 100vh;
   background-color: #eee;
   color: #000;
   display: flex;
@@ -16,33 +16,43 @@ body {
 
 header {
   padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.quote {
+  width: 90%;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
 }
 
-h1 {
-  font-size: 30px;
-  margin-top: 0;
+.quote__div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 1rem;
 }
 
-nav {
-  float: left;
-  padding: 20px;
+blockquote {
+  margin-top: 20px;
+  font-size: 16px;
 }
 
-a {
-  text-decoration: none;
-}
-
-main {
-  float: right;
-  width: 70%;
-  padding: 20px;
+cite {
+  font-size: 12px;
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
+  border-radius: 3px;
 }
 
 footer {
@@ -50,4 +60,26 @@ footer {
   background-color: #000;
   padding: 20px;
   text-align: center;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 600px) {
+  img {
+    max-width: 100%;
+  }
+
+  .quote {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .quote__div {
+    justify-content: center;
+    align-items: center;
+  }
+
+  blockquote {
+    text-align: center;
+  }
 }
