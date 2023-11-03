@@ -63,6 +63,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 a {
@@ -74,7 +75,7 @@ a {
 
 button {
   color: #eee;
-	padding: 5px 10px;
+	padding: 5px 20px;
   background-color: hsl(288, 82%, 30%);
 	border: none;
 	border-radius: 5px;
