@@ -6,23 +6,22 @@ Code Queen Dynasty group project to create 10 pages of a website using HTML and 
 
 The website is developed using the following technologies:
 
-* HTML
-* CSS
+- HTML
+- CSS
 
 The group members are:
 
-* [List of group members]
-* Iboi Osezele Ejemen
-* [List of group members]
-* [List of group members]
-* [List of group members]
-* [List of group members]
-* [List of group members]
-* [List of group members]
-* [List of group members]
-* [List of group members]
-* [List of group members]
-
+- [List of group members]
+- 1. Iboi Osezele Ejemen
+- 2. Tamarapreye Michael
+- 3. Winner Onwuteaka
+- 4. Joy Abel
+- 5. Queen-Ann Asuquo
+- 6. Oluwatobiloba Bakare
+- 7. Rabecca Muasya
+- 8. Ooreofe Lawanson
+- [List of group members]
+- [List of group members]
 
 ## Getting Started
 

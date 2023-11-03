@@ -40,6 +40,8 @@ p {
 	font-size: 28px;
 	margin-top: 1.5rem;
 }
+
+/* footer styling */
 footer {
 	margin-top: auto;
 }
@@ -64,3 +66,5 @@ button {
 	margin-left: 7px;
 	margin-right: 0;
 }
+
+/* end of footer styling */
