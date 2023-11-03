@@ -62,7 +62,13 @@ footer {
   text-align: center;
 }
 
-.btn-div, a {
+.btn-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-div div {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -73,7 +79,6 @@ a {
   color: #eee;
   text-decoration: none;
   margin: auto;
-  padding: 3px ;
 }
 
 button {
@@ -115,5 +120,16 @@ button {
 
   blockquote {
     text-align: center;
+  }
+
+  .btn-div {
+    flex-direction: column;
+  }
+
+  .btn-div div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
   }
 }
