@@ -9,7 +9,7 @@ body {
 .wrapper {
 	color: white;
 	min-height: 100vh;
-	width: 40%;
+	width: 50%;
 	margin: 0 auto;
 	padding: 1.5rem;
 	display: grid;
@@ -46,8 +46,8 @@ footer {
 	margin-top: auto;
 }
 .btn-div {
-	width: 99%;
-	margin-inline: auto;
+	display: flex;
+	justify-content: center;
 }
 button {
 	padding: 5px 10px;
