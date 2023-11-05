@@ -11,17 +11,16 @@ The website is developed using the following technologies:
 
 The group members are:
 
-- [List of group members]
-- 1. Iboi Osezele Ejemen
-- 2. Tamarapreye Michael
-- 3. Winner Onwuteaka
-- 4. Joy Abel
-- 5. Queen-Ann Asuquo
-- 6. Oluwatobiloba Bakare
-- 7. Rabecca Muasya
-- 8. Ooreofe Lawanson
-- [List of group members]
-- [List of group members]
+1. Iboi Osezele Ejemen
+2. Tamarapreye Michael
+3. Winner Onwuteaka
+4. Joy Abel
+5. Queen-Ann Asuquo
+6. Oluwatobiloba Bakare
+7. Rabecca Muasya
+8. Ooreofe Lawanson
+9. [List of group members]
+10. [List of group members]
 
 ## Getting Started
 
