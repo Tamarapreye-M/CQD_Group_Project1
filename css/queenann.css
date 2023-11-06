@@ -23,7 +23,7 @@ h1 {
 }
 .img-div {
 	width: 60%;
-	height: 50vh;
+	height: 60vh;
 	margin: 0 auto;
 }
 img {
@@ -31,17 +31,17 @@ img {
 	height: 100%;
 }
 .text-div {
-	margin-top: 2rem;
+	margin-top: 1.5rem;
 }
 h2 {
-	font-size: 35px;
+	font-size: 30px;
 }
 span {
 	color: hsl(150, 100%, 66%);
 }
 p {
 	font-size: 20px;
-	margin-block: 1.5rem;
+	margin-block: 1rem;
 }
 footer {
 	margin-top: auto;
