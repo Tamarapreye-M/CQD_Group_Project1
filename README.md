@@ -9,7 +9,7 @@ The website is developed using the following technologies:
 - HTML
 - CSS
 
-The group members are:
+The contributing group members are:
 
 1. Iboi Osezele Ejemen
 2. Tamarapreye Michael
@@ -18,9 +18,11 @@ The group members are:
 5. Queen-Ann Asuquo
 6. Oluwatobiloba Bakare
 7. Rabecca Muasya
-8. Ooreofe Lawanson
-9. [List of group members]
-10. [List of group members]
+
+The group members who did not participate are:
+9. Ooreofe Lawanson
+10. Sindiswa Toli
+11. Taiwo Abdulsalam
 
 ## Getting Started
 
