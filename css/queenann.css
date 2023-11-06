@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 body {
-	background-color: hsl(217, 19%, 24%);
+	background-color: #6C5B7B;
 }
 .wrapper {
 	color: white;
@@ -37,7 +37,7 @@ h2 {
 	font-size: 30px;
 }
 span {
-	color: hsl(150, 100%, 66%);
+	color: #f64f59;
 }
 p {
 	font-size: 20px;
