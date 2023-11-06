@@ -20,6 +20,7 @@ The contributing group members are:
 7. Rabecca Muasya
 
 The group members who did not participate are:
+
 9. Ooreofe Lawanson
 10. Sindiswa Toli
 11. Taiwo Abdulsalam
