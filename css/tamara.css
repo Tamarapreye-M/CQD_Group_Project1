@@ -9,9 +9,10 @@ body {
 .wrapper {
 	color: white;
 	min-height: 100vh;
-	width: 50%;
+	width: 40%;
 	margin: 0 auto;
 	padding: 1.5rem;
+	padding-bottom: 0;
 	display: grid;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 	border-radius: 10px;
@@ -20,6 +21,24 @@ h1 {
 	text-align: center;
 	color: hsl(193, 38%, 86%);
 	margin-bottom: 1rem;
+}
+#name {
+	background: #b3ffab; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to right,
+		#12fff7,
+		#b3ffab
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to right,
+		#12fff7,
+		#b3ffab
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-family: cursive;
 }
 .img-div {
 	width: 100%;
@@ -47,6 +66,7 @@ footer {
 }
 .btn-div {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 }
 button {
